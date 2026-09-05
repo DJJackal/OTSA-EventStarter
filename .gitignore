@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local/archive files
+*.zip
+*.rar
+*.7z
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
